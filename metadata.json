@@ -1,0 +1,6 @@
+{
+  "name": "WealthPulse - Personal Finance & Budget Tracker",
+  "description": "Minimalist personal finance and wealth tracker with pastel palette, budget management, intelligent spending insights, and ledger sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
